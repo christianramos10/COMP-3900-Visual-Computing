@@ -17,3 +17,9 @@ D:\GitHub\COMP-3900-Visual-Computing\Lab01\obj\Debug\net6.0-windows\Lab01.genrun
 D:\GitHub\COMP-3900-Visual-Computing\Lab01\obj\Debug\net6.0-windows\ref\Lab01.dll
 D:\GitHub\COMP-3900-Visual-Computing\Lab01\obj\Debug\net6.0-windows\Lab01.EnterNameForm.resources
 D:\GitHub\COMP-3900-Visual-Computing\Lab01\obj\Debug\net6.0-windows\Lab01.FillTheBlankForm.resources
+D:\GitHub\COMP-3900-Visual-Computing\Lab01\obj\Debug\net6.0-windows\Lab01.SimiliarityForm.resources
+D:\GitHub\COMP-3900-Visual-Computing\Lab01\obj\Debug\net6.0-windows\Lab01.Uncle.resources
+D:\GitHub\COMP-3900-Visual-Computing\Lab01\obj\Debug\net6.0-windows\Lab01.RectanglesForm.resources
+D:\GitHub\COMP-3900-Visual-Computing\Lab01\obj\Debug\net6.0-windows\Lab01.BankCheck.resources
+D:\GitHub\COMP-3900-Visual-Computing\Lab01\obj\Debug\net6.0-windows\Lab01.CampusId.resources
+D:\GitHub\COMP-3900-Visual-Computing\Lab01\obj\Debug\net6.0-windows\Lab01.Resources.resources

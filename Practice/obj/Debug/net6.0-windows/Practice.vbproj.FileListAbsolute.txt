@@ -1,0 +1,17 @@
+D:\GitHub\COMP-3900-Visual-Computing\Practice\bin\Debug\net6.0-windows\Practice.exe
+D:\GitHub\COMP-3900-Visual-Computing\Practice\bin\Debug\net6.0-windows\Practice.deps.json
+D:\GitHub\COMP-3900-Visual-Computing\Practice\bin\Debug\net6.0-windows\Practice.runtimeconfig.json
+D:\GitHub\COMP-3900-Visual-Computing\Practice\bin\Debug\net6.0-windows\Practice.dll
+D:\GitHub\COMP-3900-Visual-Computing\Practice\bin\Debug\net6.0-windows\Practice.pdb
+D:\GitHub\COMP-3900-Visual-Computing\Practice\obj\Debug\net6.0-windows\Practice.vbproj.AssemblyReference.cache
+D:\GitHub\COMP-3900-Visual-Computing\Practice\obj\Debug\net6.0-windows\Practice.Form1.resources
+D:\GitHub\COMP-3900-Visual-Computing\Practice\obj\Debug\net6.0-windows\Practice.vbproj.GenerateResource.cache
+D:\GitHub\COMP-3900-Visual-Computing\Practice\obj\Debug\net6.0-windows\Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\COMP-3900-Visual-Computing\Practice\obj\Debug\net6.0-windows\Practice.AssemblyInfoInputs.cache
+D:\GitHub\COMP-3900-Visual-Computing\Practice\obj\Debug\net6.0-windows\Practice.AssemblyInfo.vb
+D:\GitHub\COMP-3900-Visual-Computing\Practice\obj\Debug\net6.0-windows\Practice.vbproj.CoreCompileInputs.cache
+D:\GitHub\COMP-3900-Visual-Computing\Practice\obj\Debug\net6.0-windows\Practice.dll
+D:\GitHub\COMP-3900-Visual-Computing\Practice\obj\Debug\net6.0-windows\refint\Practice.dll
+D:\GitHub\COMP-3900-Visual-Computing\Practice\obj\Debug\net6.0-windows\Practice.pdb
+D:\GitHub\COMP-3900-Visual-Computing\Practice\obj\Debug\net6.0-windows\Practice.genruntimeconfig.cache
+D:\GitHub\COMP-3900-Visual-Computing\Practice\obj\Debug\net6.0-windows\ref\Practice.dll
