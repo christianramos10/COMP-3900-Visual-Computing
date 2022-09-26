@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Ex33.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ex34.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ex35.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ex36.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ex57to62.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ex63to64.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ex65.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ex66.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
