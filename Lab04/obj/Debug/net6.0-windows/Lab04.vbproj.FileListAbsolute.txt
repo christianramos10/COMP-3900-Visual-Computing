@@ -22,3 +22,4 @@ D:\GitHub\COMP-3900-Visual-Computing\Lab04\obj\Debug\net6.0-windows\Lab04.Ex57to
 D:\GitHub\COMP-3900-Visual-Computing\Lab04\obj\Debug\net6.0-windows\Lab04.Ex63to64.resources
 D:\GitHub\COMP-3900-Visual-Computing\Lab04\obj\Debug\net6.0-windows\Lab04.Ex65.resources
 D:\GitHub\COMP-3900-Visual-Computing\Lab04\obj\Debug\net6.0-windows\Lab04.Ex66.resources
+D:\GitHub\COMP-3900-Visual-Computing\Lab04\obj\Debug\net6.0-windows\Lab04.stringComparator.resources

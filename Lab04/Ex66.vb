@@ -7,14 +7,10 @@
             Call MsgBox("Both fields required!")
 
         Else
-            pledge = CDbl(pledgeTextbox.Text)
-            miles = CDbl(milesTextBox.Text)
-            total = pledge * miles
 
-            output = "Amount is $" + total.ToString + " for $" + pledge.ToString + "/mile in " + miles.ToString + " miles."
-
-            textBox.Text = output
 
         End If
     End Sub
+
+
 End Class

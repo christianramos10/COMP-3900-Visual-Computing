@@ -25,5 +25,8 @@
     <Compile Update="Ex66.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="stringComparator.vb">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>
